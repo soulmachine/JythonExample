@@ -1,4 +1,4 @@
-# Jython Example [![Build Status](https://travis-ci.org/soulmachine/jython-example.png)](https://travis-ci.org/soulmachine/jython-example)
+# Jython Example [![Build Status](https://travis-ci.org/soulmachine/JythonExample.png)](https://travis-ci.org/soulmachine/JythonExample)
 
 ## Introduction
 
