@@ -4,6 +4,12 @@
 
 This is a simple example to execute Python scripts from Java.
 
+_See also:_ 
+
+* [JRuby Example](https://github.com/soulmachine/JRubyExample)
+* [Scalding Example Project](https://github.com/soulmachine/scalding-example-project)
+* [Spark Example Project](https://github.com/soulmachine/spark-example-project)
+
 ## Compile
 
     mvn clean package
